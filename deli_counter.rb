@@ -44,4 +44,3 @@ nowServing(katzDeliLine); // "currently serving Charles"
 currentLine(katzDeliLine); 6. Mary
 nowServing(katzDeliLine); "currently serving Mary"
 nowServing(katzDeliLine); "line is currently empty"
-
